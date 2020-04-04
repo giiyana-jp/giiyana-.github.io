@@ -25,6 +25,7 @@
 
   .btn {
     width: 100%;
+    float: none;
   }
 
   .facebook {
