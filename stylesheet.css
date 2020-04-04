@@ -145,7 +145,7 @@ header {
 }
 
 .clear {
-  float: left;
+   clear: left;
 }
 
 
