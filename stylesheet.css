@@ -144,6 +144,11 @@ header {
   font-weight: bold;
 }
 
+.clear {
+  float: left;
+}
+
+
 .txt-contents {
   display: inline-block;
   width: 80%;
