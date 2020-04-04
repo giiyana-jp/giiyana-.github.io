@@ -21,8 +21,6 @@
 @media all and (max-width: 670px) {
   .hobby {
     width: 100%;
-    float: none;
-  
   }
 
   .btn {
