@@ -189,3 +189,11 @@ footer p {
 footer {
   padding-top: 30px;
 }
+
+@media (max-width: 1000px) {
+  /* lessonクラスのCSSを指定してください */
+  .leson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
