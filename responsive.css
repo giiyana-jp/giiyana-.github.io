@@ -50,4 +50,8 @@
   .hobby-wrapper {
     height: auto;
   }
+  
+  .message {
+    cursor:pointer;
+  }
 }
