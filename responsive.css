@@ -46,4 +46,8 @@
   .top-wrapper p {
     font-size: 14px;
   }
+  
+  .hobby-wrapper {
+    height: auto;
+  }
 }
