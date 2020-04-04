@@ -54,4 +54,7 @@
   .message {
     cursor:pointer;
   }
+ .container {
+   cursor:pointer;
+  }
 }
