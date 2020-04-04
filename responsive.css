@@ -8,7 +8,7 @@
 
 @media (max-width:670px) {
   /* .lessonのwidthを100%に指定してください */
-  hobby {
+  .hobby {
     width: 100%;
   }
   
