@@ -12,6 +12,11 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear: left;
+}
+
+
 .container {
   max-width: 1170px;
   width: 100%;
@@ -146,9 +151,6 @@ header {
   font-weight: bold;
 }
 
-.clear {
-   clear: left;
-}
 
 
 .txt-contents {
